@@ -1,0 +1,5 @@
+{
+  "flutter_multi_language": "Flutter Multi Bahasa",
+  "my_name": "Namaku adalah {name}",
+  "profile": "Nama {name}, Umur: {age}"
+}
